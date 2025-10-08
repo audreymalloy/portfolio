@@ -22,8 +22,8 @@ Welcome! I’m Audrey—a data scientist, outdoor enthusiast, and community conn
 ##  Featured Projects
 
 - [🚲 Spark Bike Forecast](https://github.com/audreymalloy/spark-bike-forecast)  
-- [🌞 Solar Demand Prediction with ARIMA](#)  
-- [🧭 Trail Usage Dashboard](#)  
+- [🌞 Solar Energy Prediction with ARIMA and DL](https://github.com/audreymalloy/Springboard_DataScience/blob/main/Capstone-3-Solar/Documentation/Capstone_Final_Documentation.ipynb)  
+- [🧭 Advancing Snow Predictions with ML](https://github.com/audreymalloy/Springboard_DataScience/blob/main/Capstone-Snow-Prediction/Documentation/Capstone_Final_Report.ipynb)  
 
 ##  Let’s Connect
 
